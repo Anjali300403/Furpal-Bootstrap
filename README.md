@@ -1,2 +1,2 @@
 # Furpal-Bootstrap
-This project is based on one of the courses that I am currently studying web development from. I am only trying to understand the usage of bootstrap components and how I can customize them according to my preference
+This project is a learning-based project based on an online course assignment. I am only trying to understand the usage of Bootstrap components and how I can customize them according to my project requirements. I've used some readily available bootstrap components: heroes, jumbotron, Pricing and footer to be able to design the frontend for this furpal application which is based on the idea of finding a pet cat from the comfort of your home by swiping left or right. I've slightly modified the idea that the course was based on
